@@ -1,0 +1,17 @@
+.proj{
+    background-color: #1A1527;
+    height: 100vh;
+}
+.project{
+    color: white;
+    font-size: 90px;
+    font-weight: 700;
+    opacity: 0.2;
+    margin-top: 20px;
+    position: absolute;
+    right: 5%;
+    /* margin-bottom: -75px; */
+    /* margin-right: 10%; */
+    /* margin-bottom: -60px; */
+    /* margin-left: 60vw; */
+}

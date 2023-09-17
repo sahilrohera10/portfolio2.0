@@ -1,0 +1,19 @@
+.head{
+    height: 100vh;
+    border: 1px solid black;
+    background-image: url(../../assets/backimg.webp);
+}
+.intro{
+    color: white;
+    font-size: 110px;
+    font-weight: 700;
+    opacity: 0.2;
+    position: absolute;
+    /* margin-bottom: -75px; */
+    /* margin-right: 10%; */
+    margin-bottom: 0px;
+    right: 5%;
+    /* margin-left: 70vw; */
+   
+
+}

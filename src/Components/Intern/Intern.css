@@ -1,0 +1,14 @@
+.intern{
+    height: 115vh;
+    background-image: url(../../assets//back2.png);
+    background-color: #0F0D16;
+}
+.int{
+    color: white;
+    font-size: 90px;
+    font-weight: 700;
+    opacity: 0.2;
+    margin-top: 20px;
+    position: absolute;
+    left: 5%;
+}
